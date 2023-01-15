@@ -1,11 +1,15 @@
 # Vue2练习项目
+在线演示地址: http://music.code2022.top/#/search/GEM
+
+![image-20230115212930676](http://qiniu.yujing.fit/typora_img/image-20230115212930676.png)
+
 - [x] 全局事件总线
 - [x] Vuex
 - [x] Vue-Router
 - [x] Element-UI
 - [x] 分页查询
 - [x] restful风格查询
-- [x] 搜索建议
+- [x] 搜索建议-很慢
 - [ ] 首页默认显示歌曲
 - [ ] 默认搜索词
 - [ ] 优化错误界面UI
